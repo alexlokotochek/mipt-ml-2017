@@ -1,0 +1,3 @@
+captioning.ipynb - main (based on benchmark)
+captioning-inception.ipynb - same as above but tf inception embeddings are used
+captioning-realty.ipynb - trying to generate realty advertisments russian description based on pictures (cian.ru)
